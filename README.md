@@ -31,27 +31,14 @@ The interface is designed with a soft color palette and minimal style to make le
 
 ### Welcome
 
-![Welcome](WELCOME.png)
 
 ### Home
 
-![Home](HOME.png)
-
 ### Flashcards
-
-![Flashcards](FLASHCARD.png)
-
-### Review
-
-![Review](FLASHCARD%20LEFT.png)
-
-### Remember
-
-![Remember](FLASHCARD%20RIGHT.png)
 
 ### Mini Games
 
-![Games](GAME.png)
+
 
 ---
 
